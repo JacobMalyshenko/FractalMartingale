@@ -91,6 +91,8 @@ CTradeStrategyProcessingContext* CTradeSingleStrategy::GetProcessingContext(CTra
 //      shouldOpenBuy = (buyTradeCount == 0 && newFractal.GetDirection() < 0);
 //      shouldOpenSell = (sellTradeCount == 0 && newFractal.GetDirection() > 0);
 // update
+// step 2
+
 
    }
    
